@@ -1,0 +1,27 @@
+ageratum
+alyssum
+aster
+campion
+canna
+carnation
+columbine
+dahlia
+daisy
+delphinium
+gaillardia
+geranium
+goldenrod
+hollyhock
+impatiens
+larkspur
+lupin
+marigold
+nasturtium
+orchid
+pansy violet
+phlox
+poinsettia
+snapdragon
+sunflower
+sweet pea
+violet

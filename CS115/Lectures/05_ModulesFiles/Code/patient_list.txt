@@ -1,0 +1,15 @@
+265332,Sevil Degirmenci,717488,Selahattin Bardakci,+90 242 023 4313
+379795,Mansur Binici,965441,Rasim Karga,+90 242 089 9441
+213286,Bunyamin Aksoy,486976,Cemre Degirmenci,+90 242 107 3041
+238200,Ceren Avci,556805,Fidan Badem,+90 242 116 4943
+506263,Erkan Marangoz,612160,Mahmut Terzi,+90 242 132 4672
+238200,Ceren Avci,916757,Belma Koc,+90 242 147 3348
+442171,Nejla Koc,445691,Sami Tiryaki,+90 242 159 6412
+297021,Ezgi Uzun,502803,Asli Kartal,+90 242 204 0806
+730083,Hasip Burakgazi,151659,Munire Macar,+90 242 216 8125
+925031,Tuncay Sadik,202773,Necla Peynirci,+90 242 276 0402
+213286,Bunyamin Aksoy,695664,Yeter Demirci,+90 242 341 2984
+238200,Ceren Avci,128269,Mahmut Terzi,+90 242 388 8937
+297021,Ezgi Uzun,181651,Ozturk Nacar,+90 242 426 4289
+442171,Nejla Koc,200030,Berrak Ekmekci,+90 242 432 5372
+265332,Sevil Degirmenci,600194,Muge Tiryaki,+90 242 577 4398
